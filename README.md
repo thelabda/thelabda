@@ -1,16 +1,13 @@
-### Hi there 👋
+  
+ ![43912552-5e54-47c7-bc63-59111ace50a5](https://user-images.githubusercontent.com/7243522/174440269-e608d454-12db-405f-b6f8-a7bfe777e2a9.JPG)
 
-<!--
-**thelabda/thelabda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ⚡ contact:  labda@thelabda.com
+- ⚡ web:  https://thelabda.com
+- ⚡ twitter: @thelabda
+- ⚡ Bugcrowd: https://bugcrowd.com/Labda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+``` Don't worry about wasting your time, because there is no such in this area that called wasting. Every step you take is part of a learning curve. Give yourself the time to develop yourself in the area you are interested, and once you will have all the reward for your efforts. So my main recommendation is : PATIENCE ```
+</p>
