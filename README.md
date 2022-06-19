@@ -11,3 +11,5 @@
 
 ``` Don't worry about wasting your time, because there is no such in this area that called wasting. Every step you take is part of a learning curve. Give yourself the time to develop yourself in the area you are interested, and once you will have all the reward for your efforts. So my main recommendation is : PATIENCE ```
 </p>
+
+As a security analyst and pentester, I have the ability to help with research on vulnerabilities and threats that could prevent or contain a company's business
